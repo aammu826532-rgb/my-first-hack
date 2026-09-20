@@ -1,6 +1,7 @@
-# my-first-hack
-My Day 1 has Ethical Hacker!
+# my-first-hack - 100 Days of Hacking
 
-- Completed TryHackMe Bank Heist
-- Created my first GitHub repo
-- Future cybersecurity expert!
+Day 01 - Bank Heist ✅
+Day 02 - Linux Basics ✅  
+Day 03 - Linux Modules - 14 Tasks, 296 Points, Streak 3 ✅
+
+Follow my journey - Future Cybersecurity Expert!
